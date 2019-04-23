@@ -15,3 +15,6 @@ https://www.coderbyte.com/editor/guest:Simple%20Symbols:Ruby
 
 # FirstReverse : Easy
 https://www.coderbyte.com/editor/guest:First%20Reverse:Ruby
+
+# SimpleAdding: Easy
+https://www.coderbyte.com/editor/guest:Simple%20Adding:Ruby
