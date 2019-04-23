@@ -18,3 +18,6 @@ https://www.coderbyte.com/editor/guest:First%20Reverse:Ruby
 
 # SimpleAdding: Easy
 https://www.coderbyte.com/editor/guest:Simple%20Adding:Ruby
+
+# LetterCapitalize: Easy
+https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Ruby
