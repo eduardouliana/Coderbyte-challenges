@@ -16,8 +16,11 @@ https://www.coderbyte.com/editor/guest:Simple%20Symbols:Ruby
 # FirstReverse : Easy
 https://www.coderbyte.com/editor/guest:First%20Reverse:Ruby
 
-# SimpleAdding: Easy
+# SimpleAdding : Easy
 https://www.coderbyte.com/editor/guest:Simple%20Adding:Ruby
 
-# LetterCapitalize: Easy
+# LetterCapitalize : Easy
 https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Ruby
+
+# CheckNums : Easy
+https://www.coderbyte.com/editor/guest:Check%20Nums:Ruby
