@@ -1,6 +1,8 @@
 # Coderbyte-challenges
 My solutions from Coderbyte challenges
 
+# https://www.coderbyte.com/profile/eduardouliana
+
 # PentagonalNumber : Hard
 https://www.coderbyte.com/editor/guest:Pentagonal%20Number:Ruby
 
