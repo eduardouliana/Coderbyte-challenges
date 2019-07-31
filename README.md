@@ -1,6 +1,8 @@
 # Coderbyte-challenges
 My solutions from Coderbyte challenges
 
+<a href="https://codeclimate.com/github/eduardouliana/Coderbyte-challenges/maintainability"><img src="https://api.codeclimate.com/v1/badges/e3abbcd1cdac2a091929/maintainability" /></a>
+
 # https://www.coderbyte.com/profile/eduardouliana
 
 # PentagonalNumber : Hard
