@@ -28,3 +28,5 @@ https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Ruby
 
 # CheckNums : Easy
 https://www.coderbyte.com/editor/guest:Check%20Nums:Ruby
+
+![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
