@@ -29,4 +29,4 @@ https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Ruby
 # CheckNums : Easy
 https://www.coderbyte.com/editor/guest:Check%20Nums:Ruby
 
-![test image size](https://exitoina.uol.com.br/media/_versions/homem_de_ferro_widexl.jpg =20x20)
+![test image size](https://exitoina.uol.com.br/media/_versions/homem_de_ferro_widexl.jpg=20x20)
