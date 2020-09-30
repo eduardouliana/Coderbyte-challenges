@@ -29,4 +29,4 @@ https://www.coderbyte.com/editor/guest:Letter%20Capitalize:Ruby
 # CheckNums : Easy
 https://www.coderbyte.com/editor/guest:Check%20Nums:Ruby
 
-![test](https://github.com/favicon.ico =24x48)
+[[ http://url.to/image.png | height = 100px ]]
